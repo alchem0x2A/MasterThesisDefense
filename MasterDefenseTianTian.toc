@@ -1,7 +1,7 @@
 \beamer@endinputifotherversion {3.33pt}
 \beamer@sectionintoc {1}{课题背景及选题意义}{3}{0}{1}
-\beamer@sectionintoc {2}{研究内容}{20}{0}{2}
-\beamer@subsectionintoc {2}{1}{基于马来酰亚胺的光子晶体乙酰胆碱酯酶活性检测的研究}{21}{0}{2}
-\beamer@subsectionintoc {2}{2}{基于光敏高分子的三维光子晶体图案化的研究}{31}{0}{2}
-\beamer@subsectionintoc {2}{3}{基于刻蚀-反应的光子晶体微球复杂功能体系的研究}{50}{0}{2}
-\beamer@sectionintoc {3}{结论}{73}{0}{3}
+\beamer@sectionintoc {2}{研究内容}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{基于马来酰亚胺的光子晶体乙酰胆碱酯酶活性检测的研究}{14}{0}{2}
+\beamer@subsectionintoc {2}{2}{基于光敏高分子的三维光子晶体图案化的研究}{21}{0}{2}
+\beamer@subsectionintoc {2}{3}{基于刻蚀-反应的光子晶体微球复杂功能体系的研究}{31}{0}{2}
+\beamer@sectionintoc {3}{结论}{44}{0}{3}

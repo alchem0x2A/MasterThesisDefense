@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.4.24)  27 MAY 2015 19:48
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2015.4.24)  11 JUN 2015 04:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1591,14 +1591,47 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
 emeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
-))
+)
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font SimHei does not contain any OpenType `Script' information.
+.................................................
+\g_fontspec_family_SimHei_int=\count287
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/I (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font SimHei/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'SimHei(0)' created for font 'SimHei' with options
+. [Ligatures=TeX,].
+. 
+. This font family consists of the following shapes:
+. 
+. * 'normal' with NFSS spec.:
+. <->"SimHei/ICU:mapping=tex-text;"
+.................................................
+)
 *************************************************
 * fontspec warning: "script-not-exist-latn"
 * 
 * Font 'STXihei' does not contain script 'CJK'.
 * 'Latin' script used instead.
 *************************************************
-\g_fontspec_family_STXihei_int=\count287
+\g_fontspec_family_STXihei_int=\count288
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1696,7 +1729,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count288
+\c@section@level=\count289
 )
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
@@ -1716,7 +1749,7 @@ LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmr/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> EU1/SimHei(0)/m/n on input line 11.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/lmss/bx/n on input line 11.
@@ -1742,7 +1775,7 @@ LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  EU1/lmss/m/it --> EU1/lmss/bx/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmr/bx/n on input line 11.
+(Font)                  OT1/cmss/bx/n --> EU1/SimHei(0)/bx/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  EU1/lmss/bx/n --> EU1/lmss/bx/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
@@ -1811,29 +1844,34 @@ LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmr/m/n on input line 11.
+(Font)                  OT1/cmss/m/n --> EU1/SimHei(0)/m/n on input line 11.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
 (Font)              `operators' in the math version `bold' on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmr/m/n on input line 11.
+(Font)                  OT1/cmss/bx/n --> EU1/SimHei(0)/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 11.
+(Font)                  EU1/SimHei(0)/m/n --> EU1/SimHei(0)/m/n on input line 1
+1.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 11.
+(Font)                  EU1/SimHei(0)/m/n --> EU1/SimHei(0)/m/n on input line 1
+1.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  EU1/lmss/m/it --> EU1/lmr/m/it on input line 11.
+(Font)                  EU1/lmss/m/it --> EU1/SimHei(0)/m/it on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  EU1/lmss/bx/n --> EU1/lmr/bx/n on input line 11.
+(Font)                  EU1/lmss/bx/n --> EU1/SimHei(0)/bx/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  EU1/lmss/m/n --> EU1/lmss/m/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  EU1/lmtt/m/n --> EU1/lmtt/m/n on input line 11.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 11.
+(Font)                  EU1/SimHei(0)/m/n --> EU1/SimHei(0)/bx/n on input line 
+11.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/lmr/bx/n --> EU1/lmr/bx/n on input line 11.
+(Font)                  EU1/SimHei(0)/bx/n --> EU1/SimHei(0)/bx/n on input line
+ 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  EU1/lmss/bx/it --> EU1/lmr/bx/it on input line 11.
+(Font)                  EU1/lmss/bx/it --> EU1/SimHei(0)/bx/it on input line 11
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  EU1/lmss/bx/n --> EU1/lmss/bx/n on input line 11.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
@@ -1892,7 +1930,7 @@ File: figures/PhC_control.png Graphic file (type QTm)
 ]
 File: figures/chem-react.png Graphic file (type QTm)
 <use  "figures/chem-react.png" >
-Overfull \vbox (0.53523pt too high) detected at line 141
+Overfull \vbox (5.18054pt too high) detected at line 141
  []
 
 [8
@@ -1905,59 +1943,97 @@ Overfull \vbox (0.53523pt too high) detected at line 141
 
 ] [12
 
-] [13
-
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-] [19
+]
+(/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
+anTian.toc) [13
 
 ]
 (/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
-anTian.toc) [20
+anTian.toc) [14
+
+]
+File: figures/AChE-Principle.png Graphic file (type QTm)
+<use  "figures/AChE-Principle.png" > [15
+
+]
+File: figures/ch2-chara.png Graphic file (type QTm)
+<use  "figures/ch2-chara.png" >
+Overfull \vbox (0.66882pt too high) detected at line 231
+ []
+
+[16
+
+]
+File: figures/enzyme_sensitivity.png Graphic file (type QTm)
+<use  "figures/enzyme_sensitivity.png" >
+Overfull \vbox (2.56367pt too high) detected at line 240
+ []
+
+[17
+
+]
+File: figures/kinetics.png Graphic file (type QTm)
+<use  "figures/kinetics.png" > [18
+
+]
+File: figures/inhibitor.png Graphic file (type QTm)
+<use  "figures/inhibitor.png" > [19
+
+] [20
 
 ]
 (/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
 anTian.toc) [21
 
-]
-File: figures/AChE-Principle.png Graphic file (type QTm)
-<use  "figures/AChE-Principle.png" > [22
+] [22
+
+] [23
 
 ]
-File: figures/Maleimide-CA.png Graphic file (type QTm)
-<use  "figures/Maleimide-CA.png" >
-File: figures/material-maleimide.jpg Graphic file (type QTm)
-<use  "figures/material-maleimide.jpg" > [23
-
-]
-File: figures/enzyme_sensitivity.png Graphic file (type QTm)
-<use  "figures/enzyme_sensitivity.png" >
-Overfull \vbox (2.56367pt too high) detected at line 247
+File: figures/scheme-2D.png Graphic file (type QTm)
+<use  "figures/scheme-2D.png" >
+Overfull \vbox (7.29332pt too high) detected at line 295
  []
 
 [24
 
 ]
-File: figures/kinetics.png Graphic file (type QTm)
-<use  "figures/kinetics.png" > [25
+File: figures/SEM-ch3.png Graphic file (type QTm)
+<use  "figures/SEM-ch3.png" >
+Overfull \vbox (16.06761pt too high) detected at line 303
+ []
+
+[25
 
 ]
-File: figures/inhibitor.png Graphic file (type QTm)
-<use  "figures/inhibitor.png" > [26
+File: figures/ch3-characterization.png Graphic file (type QTm)
+<use  "figures/ch3-characterization.png" >
+Overfull \vbox (4.22691pt too high) detected at line 309
+ []
 
-] [27
+[26
 
-] [28
+]
+File: figures/2D-gradient.png Graphic file (type QTm)
+<use  "figures/2D-gradient.png" >
+File: figures/distance-2D.png Graphic file (type QTm)
+<use  "figures/distance-2D.png" > [27
 
-] [29
+]
+File: figures/pattern-dynamic.png Graphic file (type QTm)
+<use  "figures/pattern-dynamic.png" >
+Overfull \vbox (8.38103pt too high) detected at line 338
+ []
+
+[28
+
+]
+File: figures/ch3-saturation.png Graphic file (type QTm)
+<use  "figures/ch3-saturation.png" >
+Overfull \vbox (12.24199pt too high) detected at line 346
+ []
+
+[29
 
 ] [30
 
@@ -1969,185 +2045,113 @@ anTian.toc) [31
 
 ] [33
 
-] [34
-
-] [35
-
-] [36
-
-] [37
-
 ]
-File: figures/scheme-2D.png Graphic file (type QTm)
-<use  "figures/scheme-2D.png" >
-Overfull \vbox (19.11769pt too high) detected at line 303
+File: figures/ch3/etch-react-3D.png Graphic file (type QTm)
+<use  "figures/ch3/etch-react-3D.png" >
+Overfull \vbox (5.89488pt too high) detected at line 387
  []
 
-[38
+[34
 
 ]
-File: figures/scheme-NVOC.png Graphic file (type QTm)
-<use  "figures/scheme-NVOC.png" >
-Overfull \vbox (4.57314pt too high) detected at line 313
+File: figures/schem3-2.png Graphic file (type QTm)
+<use  "figures/schem3-2.png" >
+Overfull \vbox (19.76924pt too high) detected at line 396
  []
 
-[39
+[35
 
 ]
-File: figures/UV-NMR.png Graphic file (type QTm)
-<use  "figures/UV-NMR.png" >
-File: figures/UV-ABS.png Graphic file (type QTm)
-<use  "figures/UV-ABS.png" > [40
-
-]
-File: figures/Spectra-UV.png Graphic file (type QTm)
-<use  "figures/Spectra-UV.png" >
-File: figures/CA-UV.png Graphic file (type QTm)
-<use  "figures/CA-UV.png" > [41
-
-]
-File: figures/2D-gradient.png Graphic file (type QTm)
-<use  "figures/2D-gradient.png" >
-File: figures/distance-2D.png Graphic file (type QTm)
-<use  "figures/distance-2D.png" > [42
-
-]
-File: figures/pattern2DPhC.png Graphic file (type QTm)
-<use  "figures/pattern2DPhC.png" >
-Overfull \vbox (6.57544pt too high) detected at line 358
+File: figures/ch3/Etch-chara.png Graphic file (type QTm)
+<use  "figures/ch3/Etch-chara.png" >
+Overfull \vbox (7.8443pt too high) detected at line 414
  []
 
-[43
+[36
 
 ]
-File: figures/patternPhC-response.png Graphic file (type QTm)
-<use  "figures/patternPhC-response.png" > [44
+File: figures/ch3/CCB-Amine-reaction.png Graphic file (type QTm)
+<use  "figures/ch3/CCB-Amine-reaction.png" > [37
 
 ]
-File: figures/charach-pattern.png Graphic file (type QTm)
-<use  "figures/charach-pattern.png" >
-Overfull \vbox (6.98146pt too high) detected at line 374
+File: figures/ch3/Figure2.png Graphic file (type QTm)
+<use  "figures/ch3/Figure2.png" > [38
+
+]
+File: figures/ch3/Figure3.png Graphic file (type QTm)
+<use  "figures/ch3/Figure3.png" > [39
+
+]
+File: figures/ch3/Figure4.png Graphic file (type QTm)
+<use  "figures/ch3/Figure4.png" > [40
+
+]
+File: figures/ch3/cascade.png Graphic file (type QTm)
+<use  "figures/ch3/cascade.png" > [41
+
+]
+File: figures/ch3/cascade-res.png Graphic file (type QTm)
+<use  "figures/ch3/cascade-res.png" >
+Overfull \vbox (5.61276pt too high) detected at line 468
  []
 
-[45
+[42
+
+] [43
+
+]
+(/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
+anTian.toc) [44
+
+] [45
 
 ] [46
 
 ] [47
 
-] [48
-
-] [49
+]
+File: figures/thankyou.png Graphic file (type QTm)
+<use  "figures/thankyou.png" > [48
 
 ]
-(/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
-anTian.toc) [50
-
-] [51
-
-] [52
-
-] [53
-
-] [54
-
-] [55
-
-] [56
-
-]
-File: figures/ch3/etch-react-3D.png Graphic file (type QTm)
-<use  "figures/ch3/etch-react-3D.png" >
-Overfull \vbox (10.8711pt too high) detected at line 416
+File: figures/Maleimide-CA.png Graphic file (type QTm)
+<use  "figures/Maleimide-CA.png" >
+Overfull \vbox (13.23271pt too high) detected at line 548
  []
 
-[57
+[49
 
 ]
-File: figures/schem3-2.png Graphic file (type QTm)
-<use  "figures/schem3-2.png" >
-Overfull \vbox (19.76924pt too high) detected at line 425
+File: figures/scheme-NVOC.png Graphic file (type QTm)
+<use  "figures/scheme-NVOC.png" >
+Overfull \vbox (4.57314pt too high) detected at line 556
  []
 
-[58
+[50
 
 ]
 File: figures/ch3/Fig1A.png Graphic file (type QTm)
-<use  "figures/ch3/Fig1A.png" > [59
+<use  "figures/ch3/Fig1A.png" >
+Overfull \vbox (1.6435pt too high) detected at line 565
+ []
 
-]
-File: figures/ch3/Fig1.png Graphic file (type QTm)
-<use  "figures/ch3/Fig1.png" > [60
-
-]
-File: figures/ch3/CCB-Amine-reaction.png Graphic file (type QTm)
-<use  "figures/ch3/CCB-Amine-reaction.png" > [61
+[51
 
 ]
 File: figures/ch3/IR.png Graphic file (type QTm)
-<use  "figures/ch3/IR.png" > [62
-
-]
-File: figures/ch3/Figure2.png Graphic file (type QTm)
-<use  "figures/ch3/Figure2.png" > [63
+<use  "figures/ch3/IR.png" > [52
 
 ]
 File: figures/ch3/FigureS3.png Graphic file (type QTm)
-<use  "figures/ch3/FigureS3.png" > [64
-
-]
-File: figures/ch3/Figure3.png Graphic file (type QTm)
-<use  "figures/ch3/Figure3.png" > [65
+<use  "figures/ch3/FigureS3.png" > [53
 
 ]
 File: figures/ch3/dualstain.png Graphic file (type QTm)
 <use  "figures/ch3/dualstain.png" >
-Overfull \vbox (3.98308pt too high) detected at line 498
+Overfull \vbox (3.98308pt too high) detected at line 592
  []
 
-[66
-
-]
-File: figures/ch3/Figure4.png Graphic file (type QTm)
-<use  "figures/ch3/Figure4.png" > [67
-
-]
-File: figures/ch3/cascade.png Graphic file (type QTm)
-<use  "figures/ch3/cascade.png" > [68
-
-]
-File: figures/ch3/Figure5.png Graphic file (type QTm)
-<use  "figures/ch3/Figure5.png" >
-Overfull \vbox (11.91563pt too high) detected at line 524
- []
-
-[69
-
-] [70
-
-] [71
-
-] [72
-
-]
-(/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
-anTian.toc) [73
-
-] [74
-
-] [75
-
-] [76
-
-] [77
-
-] [78
-
-] [79
-
-]
-File: figures/thankyou.png Graphic file (type QTm)
-<use  "figures/thankyou.png" > [80
+[54
 
 ]
 \tf@nav=\write6
@@ -2159,23 +2163,23 @@ File: figures/thankyou.png Graphic file (type QTm)
 \tf@snm=\write8
 \openout8 = `MasterDefenseTianTian.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 595.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 595.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 594.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 594.
 
 (/Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefense/MasterDefenseTi
 anTian.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 595.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 595.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 595.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 594.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 594.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 594.
  ) 
 Here is how much of TeX's memory you used:
- 35557 strings out of 493734
- 711872 string characters out of 6146348
- 743607 words of memory out of 5000000
- 38227 multiletter control sequences out of 15000+600000
- 11178 words of font info for 76 fonts, out of 8000000 for 9000
+ 35565 strings out of 493734
+ 711978 string characters out of 6146348
+ 744793 words of memory out of 5000000
+ 38233 multiletter control sequences out of 15000+600000
+ 11194 words of font info for 78 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 69i,17n,69p,10456b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,17n,69p,10456b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/lf/Research/Thesis/TT/Master Thesis/MasterThesisDefens
-e/MasterDefenseTianTian.pdf (80 pages).
+e/MasterDefenseTianTian.pdf (54 pages).
